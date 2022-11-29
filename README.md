@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/climaco-sarmiento/huddle-landing-page-challenge)
-- Live Site URL: [Add live site URL here](https://climaco-sarmiento.github.io/huddle-landing-page-challenge/)
+- Solution URL: [click here](https://github.com/climaco-sarmiento/huddle-landing-page-challenge)
+- Live Site URL: [click here](https://climaco-sarmiento.github.io/huddle-landing-page-challenge/)
 
 ## My process
 
